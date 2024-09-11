@@ -19,8 +19,9 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerEfee&show_icons=true&locale=en&layout=compact" alt="OmerEfee" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerEfee&show_icons=true&locale=en&layout=compact" alt="OmerEfee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmerEfee&show_icons=true&locale=en" alt="OmerEfee" /></p>
 </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
