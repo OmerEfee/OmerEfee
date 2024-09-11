@@ -22,6 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerEfee&show_icons=true&locale=en&layout=compact" alt="OmerEfee" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmerEfee&show_icons=true&locale=en" alt="OmerEfee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmerEfee&" alt="OmerEfee" /></p>
+
 </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
