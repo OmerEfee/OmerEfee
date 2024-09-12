@@ -2,7 +2,7 @@
 <h4 align="center" > I'm a candidate Software Engineer, my "hello world" has been igniting since 2022 November 👨‍🎓 </h2>
 
 ## ⏲ What am i doing now:
-- 🔭 I’m currently learning Algorithms, Java, C#, Python, Html, Css, Unity,Sql Clean Code 👩‍💻
+- 🔭 I’m currently learning Algorithms, Java, C#, Python, Html, Css, Unity, Sql, Clean Code 👩‍💻
 - 👋 Fact: I love to search and learn new informations 🚀</h3>
 </p>
 
