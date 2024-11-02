@@ -1,5 +1,5 @@
 <h1 align="center">  👋 Hi, I'm Ömer Efe </h1>
-<h4 align="center" > I'm a candidate Software Engineer, my "hello world" has been igniting since 2022 November 👨‍🎓 </h2>
+<h4 align="center" > </h2>
 
 ## ⏲ What am i doing now:
 - 🔭 I’m currently learning Algorithms, Java, C#, Python, Html, Css, Unity, Sql, Clean Code 👩‍💻
