@@ -2,7 +2,7 @@
 <h4 align="center" > </h2>
 
 ## ⏲ What am i doing now:
-- 🔭 I’m currently learning Algorithms, Java, C#, Html, Css, Unity, Sql
+- 🔭 I’m currently learning Algorithms, Java, C#, Html, Css, Sql , Unity <3
 - 👋 Fact: I love to search and learn new informations 🚀</h3>
 </p>
 
