@@ -1,44 +1,56 @@
-<h1 align="center">  👋 Hi, I'm Ömer Efe </h1>
-<h4 align="center" > </h2>
+# 🎯 Hi, I'm Ömer Efe Peltek 👋
 
-## ⏲ What am i doing now:
-- 🔭 I’m currently learning Algorithms, Java, C#, Html, Css, Sql , Unity <3
-- 👋 Fact: I love to search and learn new informations 🚀</h3>
+### 👨‍💻 Software Engineer | Building games with Unity (C#) & exploring Backend (Java / .NET)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/%C3%B6mer-efe-peltek-7aab51253/">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oefepeltek@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-OmerEfee&style=plastic)
-### 📩 Connect with me:
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+---
 
-<br />
-</a>
+### 🚀 What I'm Doing Now
+- 🎮 Building game mechanics and prototypes using **Unity & C#**.
+- ☕ Exploring corporate backend architectures with **Java** and **.NET**.
+- 📚 Actively continuing my training on **BTK Akademi** to level up my skills.
+- 💡 "I love to search and learn new information 🚀"
 
-### 💻 Languages and Tools (Learning and Using): 
+---
 
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
+### 🛠️ Languages and Tools I'm Learning & Using
 
-<br />
+<p align="left">
+  <!-- Game Dev -->
+  <img src="https://shields.io" alt="Unity"/>
+  <img src="https://shields.io" alt="C#"/>
+  
+  <!-- Backend & DB -->
+  <img src="https://shields.io" alt="Java"/>
+  <img src="https://shields.io" alt=".NET"/>
+  <img src="https://shields.io" alt="SQL Server"/>
+  
+  <!-- Frontend Basics -->
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  
+  <!-- Tools -->
+  <img src="https://shields.io" alt="Git"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerEfee&show_icons=true&locale=en&layout=compact" alt="OmerEfee" /></p>
+---
 
+### 📊 My GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmerEfee&show_icons=true&locale=en" alt="OmerEfee" /></p>
+<p align="left">
+  <img src="https://vercel.app" alt="OmerEfee's GitHub Stats" height="180" />
+  <img src="https://herokuapp.com" alt="OmerEfee's GitHub Streak" height="180" />
+</p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmerEfee&" alt="OmerEfee" /></p>
-
-</a>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/%C3%B6mer-efe-peltek-7aab51253/
-[gmail]: mailto:oefepeltek@gmail.com
-[github]: https://github.com/OmerEfee
-[java]: https://www.java.com/en/
-[vstudio]: https://visualstudio.microsoft.com/
-
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
